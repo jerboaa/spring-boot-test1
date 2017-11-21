@@ -128,7 +128,7 @@
           <resources>
             <labels>
               <all>
-                <space>osio-che-testing</space>
+                <space>spring-boot</space>
               </all>
             </labels>
           </resources>
